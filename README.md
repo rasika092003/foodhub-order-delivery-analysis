@@ -38,6 +38,3 @@ An end-to-end business intelligence project analyzing FoodHub's food delivery op
 1. **Weekend staffing** — Scale delivery personnel on weekends to handle 3x demand
 2. **Promote Japanese cuisine** — Strong revenue share (24.47%) with growth potential
 3. **Delivery optimization** — Target sub-20 min delivery for higher ratings
-
-## 📸 Dashboard Preview
-![Dashboard]()
